@@ -57,7 +57,7 @@ Before moving on, please make a copy of this file and rename it in a way that ma
 
 ### Conclusions
 
-> Below, interpret the results of this analysis (that is, describe what the results mean for your data). Please also discuss any practical implications of these results (that is, explain how people might wish to think or act differently based on these results). [1 point]
+> Below, interpret the results of this analysis (that is, describe what the results mean for your data and your hypotheses). Please also discuss any practical implications of these results (that is, explain how people might wish to think or act differently based on these results). [1 point]
 
 
 
@@ -80,7 +80,7 @@ Before moving on, please make a copy of this file and rename it in a way that ma
 
 ### Conclusions
 
-> Below, interpret the results of this analysis (that is, describe what the results mean for your data). Please also discuss any practical implications of these results (that is, explain how people might wish to think or act differently based on these results). [1 point]
+> Below, interpret the results of this analysis (that is, describe what the results mean for your data and your hypotheses). Please also discuss any practical implications of these results (that is, explain how people might wish to think or act differently based on these results). [1 point]
 
 
 
