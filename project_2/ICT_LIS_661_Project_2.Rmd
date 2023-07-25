@@ -49,7 +49,7 @@ Before moving on, please make a copy of this file and rename it in a way that ma
 
 
 
-> As needed, perform any data cleaning (including "tidying" or subsetting) on the data in the code chunk below. [1 point]
+> As needed, perform any data cleaning (including "tidying" or "wrangling") on the data in the code chunk below. [1 point]
 
 ```{r}
 
