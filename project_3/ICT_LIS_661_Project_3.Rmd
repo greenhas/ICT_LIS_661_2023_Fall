@@ -15,44 +15,70 @@ Before moving on, please make a copy of this file and rename it in a way that ma
 
 > Under the headers below, I'll provide you with certain instructions, all of them formatted as blockquotes, like this paragraph is. Underneath each set of blockquoted instructions, you should write a response to any questions I ask and fill out any code chunks as I instruct you. At the very end of this document, I'll provide instructions for *knitting* and submitting the `.Rmd` to Canvas.
 
-## Project 3, Part 1: Your Dataset [2 points]
+## Project 3, Part 1: Your Dataset [1 point]
 
 > For this project, you will need to identify a dataset with at least 100 observations and 5 variables. A dataset with at least 1,000 observations and 10 variables would be even better—but not necessary. This does not need to be a publicly available dataset, but please ensure that you can use the dataset legally and ethically. Store the data somewhere in your GitHub repository for this class.
 
-> It is fine for this to be a dataset that you have used previously in this class; in fact, *Part 1* of this project repeats much of Project 2. There's real value in repeating that experience on new data, but I also won't blame you for saving yourself some time and copying over text and code from Project 2. However, if you are reusing a dataset, you must make sure that the dataset is appropriate for performing t-tests and regressions.
+> It is fine for this to be a dataset that you have used previously in this class; in fact, *Part 1* of this project repeats much of Project 2. There's real value in repeating that experience on new data, but I also won't blame you for saving yourself some time and copying over text and code from Project 2. However, if you are reusing a dataset, you must make sure that the dataset is appropriate for performing the analyses I am asking you to do here!
 
-> In the code chunk below, please load the dataset into this document. (Keep in mind that you can—and may need to—load packages as part of this or any other code chunk; however, please do not try to install any packages here). [1 point]
-
-```{r}
-
-```
-
-
-> As needed, perform any data cleaning (including "tidying" or "wrangling") on the data in the code chunk below. [1 point]
+> In the code chunk below, please load the dataset into this document. (Keep in mind that you can—and may need to—load packages as part of this or any other code chunk; however, please do not try to install any packages here). [.5 points]
 
 ```{r}
 
 ```
 
 
+> As needed, perform any data cleaning (including "tidying" or "wrangling") on the data in the code chunk below. [.5 points]
 
-## Project 3, Part 2: T-Test [4 points]
+```{r}
 
-> For this part of the project, you will be carrying out a t-test. Please recall that the typical purpose of a t-test is to compare two means or two proportions!
+```
+
+## Project 3, Part 2: Exploratory Data Analysis [3 points]
+
+> In Modules 9 and 10, we emphasized that it is important to explore our data before we proceed to analysis. For this part of the project, you will therefore carry out some exploratory data analysis.
+
+### Examine Raw Data
+
+> In the code chunk below, run some code for examining (some of) the raw data in your dataset. [1 point]
+
+```{r}
+
+```
+
+### Summarize Data
+
+> In the code chunk below, run some code for calculating summary statistics for your dataset. [1 point]
+
+```{r}
+
+```
+
+### Visualize Data
+
+> In the code chunk below, run some code for carrying out an appropriate visualization for at least one key variable in your dataset. [1 point]
+
+```{r}
+
+```
+
+## Project 3, Part 2: Comparing Means or Proportions [3 points]
+
+> In Module 13, we learned how to use hypothesis testing to compare two means or proportions. For this part of the project, you will be carrying out a hypothesis test for a similar comparison involving your own data.
 
 ### Hypotheses
 
-> Below, please describe a null hypothesis and an alternative hypothesis related to this data that can be tested using a t-test. [1 point]
+> Below, please describe a null hypothesis and an alternative hypothesis related to your data that involves comparing means or proportions. [1 point]
+
 
 
 ### Data Analysis
 
-> In the code chunk below, please carry out a t-test that will test the hypotheses listed above. Then, below the code chunk, summarize the results of this analysis; pay particular attention to statistical significance! [2 points]
+> In the code chunk below, please carry out a test of the hypotheses you described above. Then, below the code chunk, summarize the results of this analysis; pay particular attention to statistical significance! [1 points]
 
 ```{r}
 
 ```
-
 
 
 ### Conclusions
@@ -61,18 +87,19 @@ Before moving on, please make a copy of this file and rename it in a way that ma
 
 
 
-## Project 3, Part 3: Regression [4 points]
+## Project 3, Part 3: Regression [3 points]
 
-> For this part of the project, you will be carrying out a regression. Please recall that the purpose of regression is to describe the relationship between two (or more) variables!
+> In Module 14, we learned how to apply hypothesis testing to a regression analysis (which explores the relationship between two variables. For this part of the project, you will be carrying out a hypothesis test for a regression involving your own data.
 
 ### Hypotheses
 
-> Below, please describe a null hypothesis and an alternative hypothesis) related to this data that can be tested using regression. [1 point]
+> Below, please describe a null hypothesis and an alternative hypothesis related to your data that can be tested using regression. [1 point]
+
 
 
 ### Data Analysis
 
-> In the code chunk below, please carry out a regression that will test the hypotheses listed above. Then, below the code chunk, summarize the results of this analysis. Make particular reference to relevant statistics, including coefficient and p-value. [2 points]
+> In the code chunk below, please carry out a regression that will test the hypotheses listed above. Then, below the code chunk, summarize the results of this analysis. Make particular reference to relevant statistics, including coefficient and p-value. [1 point]
 
 ```{r}
 

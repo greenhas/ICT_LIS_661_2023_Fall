@@ -55,39 +55,39 @@ Before moving on, please make a copy of this file and rename it in a way that ma
 
 ```
 
-## Project 2, Part 2: Descriptive Statistics [6 points]
+## Project 2, Part 2: Summary Statistics [4 points]
 
-> In the code chunk below, write code to determine the number of observations in the dataset. As is typical for R, there are a number of ways to do this—*how* you do so is less important than *that* you do so. [1 point]
-
-```{r}
-
-```
-
-> In the code chunk below, write code to list the variables included in the dataset. Then, below the code chunk, list and explain 5-10 of the most important quantitative variables. (The quantitative part will become important in the next step!) [2 points]
+> In the code chunk below, write some code that provides a summary of your data. As you determine what code to write, consider the specific prompts below. As is typical for R, there are a number of ways to do this—*how* you do so is less important than *that* you do so. [1 point]
 
 ```{r}
 
 ```
 
+> How many observations and variables are in your dataset? [1 point]
 
 
 
+> List and explain 3-5 of the most important quantitative variables. (The quantitative part will become important in the next step!) [1 point]
 
 
 
+> Report on some key summary statistics for the 3-5 variables you identified above. What do those statistics tell you about those variables? [1 point]
 
+## Project 2, Part 3: Visualization [2 points]
 
-> In the code chunk below, calculate descriptive statistics (including mean, median, variance, and standard deviation) for each of the variables you listed above. Then, below the code chunk, say what those descriptive statistics tell you about those variables. [1 point]
+```{r}
+
+```
+
+> In the code chunk below, pick one or more of the variables in your dataset, choose an appropriate visualization for the variable(s), and carry that visualization out. [1 point]
 
 ```{r}
 
 ```
 
-> Consider further questions that you have about the data and how visualization could help you answer those questions. In the code chunk below, pick one or more of the variables in your dataset and visualize them. Then, below the code chunk, describe what you were trying to learn about the data, what kind of plot you chose, why that plot is important for what you were trying to learn, and what the plot showed about the data. [2 points]
+> Here, explain what you were trying to learn about the data, what kind of plot you chose, why that plot is important for what you were trying to learn, and what the plot showed about the data. [1 point]
 
-```{r}
 
-```
 
 
 # Submitting Project 2

@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Data Description, Preparation, and Exploration [5 points]
 
-> In the code chunk below, run all the code necessary to respond to the questions below; please note that this should include at least one visualization! [1 point]
+> In the code chunk below, run all the code necessary to load your data and carry out some exploratory data analysis (take note of the questions below). [1 point]
 
 ```{r}
 
@@ -21,15 +21,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-> Explain how you imported, cleaned, and manipulated the data for analysis. [1 point]
+> Explain any tidying and wrangling that you perfromed on the data and why you took those steps. [1 point]
 
 
 
-> Provide the description of key variables and their descriptive statistics. What do these descriptive statistics tell you about the data? [1 point]
+> Provide a description of key variables and their summary statistics. What do these summary statistics tell you about the data? [1 point]
 
 
 
-> Explain how you visualized the data, why you chose that visualization, and what it tells you about the data. [1 point]
+> Explain how you visualized key variables, why you chose those visualizations, and what they tell you about the data. [1 point]
 
 
 
@@ -41,11 +41,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Data Analysis [4 points]
 
-> Describe your data analysis methods for testing your hypotheses. [2 points]
-
-
-
-> Explain why those data analysis methods are useful for testing your hypotheses. [2 points]
+> Throughout the semester, we've practiced using inferential statistics to determine: 1) differences in population proportions, 2) differences in population means, and 3) population regression slopes. Explain which of these three applications of inferential statistics is relevant to *each* of your hypotheses and why. [4 points]
 
 
 
